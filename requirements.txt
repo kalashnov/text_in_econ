@@ -1,0 +1,8 @@
+jupyter>=1.1.1
+tqdm>=4.67.1
+scikit-learn>=1.6.1
+pandas>=2.2.3
+numpy>=2.2.4
+openai==1.70.0
+
+
