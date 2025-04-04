@@ -1,5 +1,7 @@
 # Fine Tuning tutorial
 
+You can find the slides [here](https://github.com/kalashnov/text_in_econ/blob/main/talk_slides.pdf)
+
 To reproduce the result from slides you need:
 
 
